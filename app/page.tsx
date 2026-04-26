@@ -1,6 +1,6 @@
 'use client';
 
-import { Button } from '@/components/ui/button';
+import  { Button } from '@/components/ui/button';
 import Link from 'next/link';
 import { BarChart3, TrendingUp, Users, Zap, ArrowRight } from 'lucide-react';
 
